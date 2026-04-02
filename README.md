@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanyam1002" alt="sanyam1002" /></a> </p>
 
-- 🔭 I’m currently working on **AI & Threat Intelligence**
+- 🔭 I’m currently working on **AI & Cyber Security**
 
 - 🌱 I’m currently learning **B.Tech in CSECS**
 
